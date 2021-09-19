@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Mohit yadav
+.
 
-<!--
-**mohityadav0903/mohityadav0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C++/C/Python
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Web development 
+- ⚡ Fun fact: Just passionate enough 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohityadav0903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg' alt='r' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg' alt='dart' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](.)  
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav0903)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohityadav0903&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohityadav0903)
+
+![GitHub metrics](https://metrics.lecoq.io/mohityadav0903)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohityadav0903)
+
+![Profile views](https://gpvc.arturio.dev/mohityadav0903)  
