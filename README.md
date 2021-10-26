@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Mohit yadav
+# Hi there 👋, my name is Mohit yadav
 .
-
-Skills: C++/C/Python
 
 
 - 🌱 I’m currently learning Web development 
