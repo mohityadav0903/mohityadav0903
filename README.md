@@ -1,13 +1,10 @@
-# Hi there 👋, my name is Mohit yadav
-.
-
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Mohit yadav
 
 - 🌱 I’m currently learning Web development 
 - ⚡ Fun fact: Just passionate enough 
 - CONTACT ME: [linkedin](https://www.linkedin.com/in/mohit-yadav-28a921209)
 - FOLLOW ME
 - [HACKERRANK](https://www.hackerrank.com/elitemohityadav)
-
 # 🚀 Languages and Tools:
 
 <p align="left"> 
